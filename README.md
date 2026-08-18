@@ -1,20 +1,20 @@
-* Sistema de Conta Bancária em Java
+# Sistema de Conta Bancária em Java
 
 Projeto desenvolvido durante o curso de Java da Alura para praticar conceitos de lógica de programação e controle de fluxo.
 
-* Funcionalidades
+## Funcionalidades
 
 - Consultar saldo
 - Receber valor (depósito)
 - Transferir valor (com validação de saldo)
 - Menu interativo no terminal
 
-* Tecnologias
+## Tecnologias
 
 - Java
 - Class Scanner para leitura de dados
 
-* Como Executar
+## Como Executar
 
 1. Clone o repositório:
    git clone https://github.com/Arthurssx/Sistema-conta-bancaria-java.git
