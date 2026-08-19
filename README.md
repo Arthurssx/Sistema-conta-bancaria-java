@@ -1,6 +1,6 @@
 # Sistema de Conta Bancária em Java
 
-Projeto desenvolvido durante o curso de Java da Alura para praticar conceitos de lógica de programação e controle de fluxo.
+Meu primeiro projeto, foi desenvolvido durante o curso de Java da Alura para praticar conceitos de lógica de programação e controle de fluxo.
 
 ## Funcionalidades
 
